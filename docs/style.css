@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Titulo{
+    text-align: center;
+    margin-top: 10px;
+}
+
+section{
+    padding: 9px 25px;
+    background-color: #DAFDBA;
+    border: none;
+    border-radius: 50px;
+
+}
